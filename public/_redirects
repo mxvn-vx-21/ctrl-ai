@@ -1,0 +1,16 @@
+/launchpad /#/launchpad 302
+/pages /#/pages 302
+/ai-studio /#/ai-studio 302
+/login /#/login 302
+/signup /#/signup 302
+/launchpad/submit /#/launchpad?tab=submit 302
+/account /#/account 302
+/deploy /#/launchpad?tab=deploy 302
+/submit /#/launchpad?tab=submit 302
+/pages/editor /#/pages/editor 302
+/studio /#/ai-studio 302
+/studio/history /#/ai-studio/history 302
+/studio/settings /#/ai-studio/settings 302
+/studio/chat/* /#/ai-studio/chat/:splat 302
+/ai-studio/history /#/ai-studio/history 302
+/ai-studio/settings /#/ai-studio/settings 302
